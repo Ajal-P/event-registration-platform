@@ -1,9 +1,8 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL:
-"https://event-registration-api.onrender.com/api/",  
-});
+  baseURL: "https://YOUR-RENDER-BACKEND.onrender.com/api/",
+});, 
 
 api.interceptors.request.use((config) => {
 
