@@ -46,7 +46,7 @@ Backend:
 
 ### Clone Repository
 
-git clone https://github.com/your-username/event-registration-platform.git
+git clone 
 
 cd event-registration-platform
 
