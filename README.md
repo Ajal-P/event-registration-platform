@@ -41,10 +41,6 @@ Frontend:
 Backend:
 [https://your-backend-url.onrender.com](https://event-registration-platform-zkg1.onrender.com)
 
-## API Documentation
-
-https://your-backend-url.onrender.com/api/docs/
-
 ## Author
 
 Ajal P
