@@ -27,6 +27,12 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
 
+import os
+
+SECRET_KEY = os.getenv(
+    "SECRET_KEY",
+    "dev-secret-key"
+)
 
 # Application definition
 
