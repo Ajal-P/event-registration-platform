@@ -36,23 +36,15 @@ A full-stack Event Registration Platform built using React.js and Django REST Fr
 ## Live Demo
 
 Frontend:
-https://your-frontend-url.vercel.app
+[https://your-frontend-url.vercel.app](https://event-registration-platformfinal.vercel.app/login)
 
 Backend:
-https://your-backend-url.onrender.com
+[https://your-backend-url.onrender.com](https://event-registration-platform-zkg1.onrender.com)
 
 ## API Documentation
 
 https://your-backend-url.onrender.com/api/docs/
 
-## Installation
-
-See installation instructions below.
-
-## Screenshots
-
-(Add screenshots)
-
 ## Author
 
-Your Name
+Ajal P
