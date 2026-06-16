@@ -1,0 +1,58 @@
+# Event Registration Platform
+
+A full-stack Event Registration Platform built using React.js and Django REST Framework.
+
+## Features
+
+* User Registration
+* JWT Authentication
+* User Login & Logout
+* Event Listing
+* Event Details
+* Event Registration
+* Prevent Duplicate Registration
+* My Registrations
+* Responsive UI
+
+## Tech Stack
+
+### Frontend
+
+* React.js
+* React Router
+* Axios
+* Bootstrap
+
+### Backend
+
+* Django
+* Django REST Framework
+* JWT Authentication
+
+### Database
+
+* SQLite
+
+## Live Demo
+
+Frontend:
+https://your-frontend-url.vercel.app
+
+Backend:
+https://your-backend-url.onrender.com
+
+## API Documentation
+
+https://your-backend-url.onrender.com/api/docs/
+
+## Installation
+
+See installation instructions below.
+
+## Screenshots
+
+(Add screenshots)
+
+## Author
+
+Your Name
