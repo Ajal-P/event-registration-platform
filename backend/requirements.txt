@@ -22,3 +22,10 @@ typing-extensions==4.13.2
 tzdata==2026.2
 uritemplate==4.1.1
 zipp==3.20.2
+Django
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+drf-spectacular
+gunicorn
+whitenoise
